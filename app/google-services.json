@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "28788399280",
+    "firebase_url": "https://spark-social-media-app-default-rtdb.firebaseio.com",
+    "project_id": "spark-social-media-app",
+    "storage_bucket": "spark-social-media-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28788399280:android:2d3b1e763a94ee0e012f75",
+        "android_client_info": {
+          "package_name": "com.rishabh.sparksocialmediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28788399280-ouuo55lcuikoj9drlni6edv8okaed77g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rishabh.sparksocialmediaapp",
+            "certificate_hash": "06936cb850b2d6cb73257757c8782e8de53bb53a"
+          }
+        },
+        {
+          "client_id": "28788399280-uhsk7npq2pdar4hgvh9dhejobhjj8a2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoQx86oWW720aX7-aOq0jujv2uk72Y0Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28788399280-uhsk7npq2pdar4hgvh9dhejobhjj8a2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
